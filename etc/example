@@ -1,0 +1,6 @@
+git config --global user.name "bratyn20" // ввод логина
+git config --global user.email "bratyn20@gmail.com" //ввод емейла
+git init // создание папки .git
+git remote add  origin https://github.com/bratyn20/Lgots_project.git // добавиться к гиту
+git push origin master //занести в пуш
+git pull origin master //Вытащить 
