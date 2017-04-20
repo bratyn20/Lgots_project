@@ -4,7 +4,7 @@ const App = React.createClass({
     render() {
         return
         <h1>Льготы </h1>; 
-        <li>rfghjkk</li>; 
+        <li>r</li>; 
     }
 });
 
