@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-loader": "^6.4.1",
     "express": "^4.15.2",
-    "mongoose": "^4.9.5"
+    "mongoose": "^4.9.5",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
   }
 }
