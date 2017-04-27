@@ -1,10 +1,15 @@
 import React from 'react';
+import Lgotsmenu from './Lgotsmenu.jsx';
+import Lgotsgrid from './Lgotsgrid.jsx';
 
 const App = React.createClass({
     render() {
-        return
-        <h1>Льготы </h1>; 
-        <li>r</li>; 
+        return (
+                <div className='App'>
+                    <Lgotsmenu />
+                    <Lgotsgrid />
+                </div>
+        ); 
     }
 });
 
